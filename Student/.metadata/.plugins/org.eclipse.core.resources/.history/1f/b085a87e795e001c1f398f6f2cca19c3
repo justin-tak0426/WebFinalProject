@@ -1,0 +1,13 @@
+package com.student.myapp;
+
+public class UserVO {
+	private String userid;
+	private String password;
+	private String username;
+	public String getUserid() {
+		return userid;
+	}
+	public void setUserid(String userid) {
+		this.userid=userid;
+	}
+}

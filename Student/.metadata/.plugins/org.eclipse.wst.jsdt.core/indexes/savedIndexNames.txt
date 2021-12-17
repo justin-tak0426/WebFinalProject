@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/justin_tak/Desktop/HGU/2021-2/실프/실프 파이널 과제/Student/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4014497473.index
+1510948042.index
+1229694891.index
+1420128594.index
+3877134031.index
+2693195330.index
+603226988.index

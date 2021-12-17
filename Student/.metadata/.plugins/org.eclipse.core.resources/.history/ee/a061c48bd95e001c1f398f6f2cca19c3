@@ -1,0 +1,10 @@
+package com.student.myapp;
+
+@Service
+public class UserServicelmpl {
+	@Autowired
+	UserDAO userDAO;
+	public UserVO getUser(UserVO vo) {
+		return userDAO.getUser(vo);
+	}
+}

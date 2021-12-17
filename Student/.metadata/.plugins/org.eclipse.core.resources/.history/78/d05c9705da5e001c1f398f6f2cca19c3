@@ -1,0 +1,14 @@
+package com.student.myapp;
+
+@Controller
+@RequestMapping(value="/login")
+public class LoginController {
+	
+	@Autowired
+	UserServiceImpl service;
+	
+	@RequestMapping(value="/login", method = RequestMethod.GET)
+	public String login() {
+		return "login";
+	}
+}
